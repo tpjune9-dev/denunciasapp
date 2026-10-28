@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Theme Colors -->
+    <color name="primary">#1E3A8A</color> <!-- Deep Navy Blue -->
+    <color name="primary_variant">#1E40AF</color>
+    <color name="primary_light">#E0E7FF</color>
+
+    <color name="secondary">#2563EB</color> <!-- Royal Blue -->
+    <color name="accent">#0EA5E9</color> <!-- Sky Blue -->
+
+    <!-- Backgrounds -->
+    <color name="background">#F1F5F9</color> <!-- Soft Light Gray -->
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>    <color name="text_muted">#94A3B8</color>
+
+    <!-- Status Colors -->
+    <color name="status_pending_text">#C2410C</color>
+    <color name="status_pending_bg">#FFEDD5</color>
+
+    <color name="status_attended_text">#15803D</color>
+    <color name="status_attended_bg">#DCFCE7</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
